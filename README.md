@@ -10,9 +10,9 @@
 </a>
 
 <a href="https://deaglegenerator.vercel.app/" target="_blank">
-  <img src="i.imgur.com/ngVaeQu.png"> 
+  <img src="https://i.imgur.com/ngVaeQu.png"> 
 </a>
 
 <a href="https://deaglegenerator.vercel.app/" target="_blank">
-  <img src="i.imgur.com/8XexpFB.png"> 
+  <img src="https://i.imgur.com/8XexpFB.png"> 
 </a>
